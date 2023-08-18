@@ -17,6 +17,6 @@ while True:
     print()
     crawler.print_operation_list()
     print()
-    print("請輸入代碼 : ",end="")
+    print("請輸入代碼 : ", end="")
     crawler.operation(input())
 
